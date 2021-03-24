@@ -1,21 +1,20 @@
-body {
-  font-family: sans-serif;
-  line-height: 1.5;
+<main>
+    <h1>Рыбаков Николай!</h1>
+    <h2>Создатель профессии «Верстальщик» на Hexlet</h2>
 
-  background-color: #f9f9f9;
-  color: #333333;
+    <hr>
 
-  width: 980px;
-  margin: 0 auto;
-}
+    <section>
+        <h2>Ключевые навыки:</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+        </ul>
+    </section>
 
-h1 {
-  text-align: center;
-  font-size: 36px;
-  margin-bottom: 0;
-}
-
-main > h2 {
-  text-align: center;
-  font-size: 25px;
-}
+    <section>
+        <h2>О преподавателе</h2>
+        <p>Много лет работал в аутсорсинговой компании. Развивал клиентские проекты, делал фичи для разных CMS. В основном верстал, готов передать весь опыт вам. Поработав с сотнями проектов, научился выкручиваться даже из самых безнадёжных ситуаций. Поможет освоить вёрстку, чтобы она перестала казаться чем-то страшным.</p>
+    </section>
+</main>
